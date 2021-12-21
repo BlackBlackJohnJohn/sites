@@ -1,0 +1,18 @@
+header{
+	background: #1C1C1C;
+}
+ul{
+	display: flex;
+}
+li{
+	padding-right: 25px;
+}
+.search{
+	justify-self: space-between;
+}
+a{
+	text-decoration: none;
+}
+.nomesite{
+	color: #363636;
+}

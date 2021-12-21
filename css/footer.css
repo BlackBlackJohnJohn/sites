@@ -1,0 +1,50 @@
+footer{
+	display: block;
+	justify-content: center;
+	padding-top: 15px;
+	background: #000000;
+}
+footer:hover{
+	transition: 1s;
+	background: #1C1C1C;
+}
+.fa-instagram{
+	color: #C71585;
+	margin: 5px;
+}
+.fab:hover{
+	color: #000000;
+	transition: 0.8s;
+}
+.fa-facebook-f{
+	margin-right: 5px;
+}
+li{
+	list-style-type: none;
+	justify-content: center;
+}
+.discord{
+	display: block;
+	width: 100px;
+	height: 90px;
+	background: #090909;
+	margin: 10px;
+	padding: 10px;
+	color: #FFFFFF;
+}
+.discord:hover{
+	transition: 1.3s;
+	background:	#828282;
+}
+.fa-discord{
+	text-decoration: none;
+}
+.cemi{
+	font-size: 15px;
+	color: #FFFFFF;
+}
+.direitos{
+	font-size: 10px;
+	color: white;
+	margin-left: 30px;
+}

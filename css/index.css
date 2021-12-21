@@ -1,0 +1,13 @@
+body{
+	background: #333030;
+	color: white;
+}
+.titulo{
+    text-align: center;
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-decoration: underline;
+}
